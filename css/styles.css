@@ -23,7 +23,7 @@ body::-webkit-scrollbar-thumb
     border-radius: 50%;
     align-items: center;
     width: 30%;
-    padding-bottom: 1rem;
+    /* padding-bottom: 1 rem; */
     margin-bottom: 0.5cm;
     box-shadow:7px 5px 7px rgb(146, 8, 8);
     shadow
